@@ -1,0 +1,1 @@
+# twrp_device_UMX_U693CL
