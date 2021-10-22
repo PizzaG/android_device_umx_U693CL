@@ -1,6 +1,6 @@
-TWRP Device Tree
+OrangeFox Device Tree
 
-TWRP Based On Android 10
+OrangeFox Based On Android 10
 
 UMX U693CL
 
