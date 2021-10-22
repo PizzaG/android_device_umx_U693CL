@@ -1,6 +1,6 @@
-TWRP Device Tree
+PitchBlack Device Tree
 
-TWRP Based On Android 10
+PitchBlack Based On Android 10
 
 UMX U693CL
 
