@@ -27,3 +27,8 @@ PRODUCT_BRAND := Umx
 PRODUCT_MODEL := U693CL
 PRODUCT_MANUFACTURER := Umx
 PRODUCT_RELEASE_NAME := Umx U693CL
+
+# Forcefully add mtp support (adb is already there)
+PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
+    persist.sys.usb.config=mtp \
+    persist.sys.usb.configfs=1

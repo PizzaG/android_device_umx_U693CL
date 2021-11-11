@@ -7,3 +7,8 @@
 
 LOCAL_PATH := device/umx/U693CL
 
+# QCOM Standard Decryption
+PRODUCT_PACKAGES += \
+    qcom_decrypt \
+    qcom_decrypt_fbe
+
